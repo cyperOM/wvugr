@@ -7,3 +7,28 @@ We are going to test the following units:
  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  Testing:
  -I went into the register page and tried to put in an email without an @ symbol, domain, and a . included
+  Expected result:
+  give an error if one or all of these things are missing
+  Actual result:
+  expected result, picture of errors in unit folder
+ 
+ -I went into the register page and tried to put a password in that was not 8 length nor did it have a capital letter or special character and then tried one with those
+  Expected result:
+  give an error if the requirements are not met
+  Actual result: 
+  expected result, password worked when requirements were met and gave an error when they were not met. Picture of error message given in unit folder.
+  
+  -Went to register and tried a duplicate username
+  Expected result:
+  Give an error message if it is duplicate, if not be able to use username.
+  Actual result:
+  Expected result, picture of error message in unit folder
+  
+ -Tried going to a review and try to make a comment
+ Expected result: 
+ Show message that says need to register before commenting, if registered be able to comment on review
+ Actual result:
+ Expected results, Picture of error message when not signed in shown in picture in unit folder 
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ After running the tests on the registration process and the commenting process, I can conclude all tests were passed and the all results were expected.
+ Therefore, the website passed all the unit tests ran.
