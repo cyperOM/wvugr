@@ -4,6 +4,7 @@
  *
  * @package WordPress
  */
+//reviewed by Austin Ooten
 //Authors Kristoffer Lee
 
 if ( 'POST' !== $_SERVER['REQUEST_METHOD'] ) {
