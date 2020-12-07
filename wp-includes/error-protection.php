@@ -1,5 +1,5 @@
 <?php
-/** 
+/** Author: Austin Ooten
  * Error Protection API: Functions
  *
  * @package WordPress
