@@ -15,3 +15,6 @@
 
 # Success Criteria: 
 # Users will be able to easily locate the game they are searching for as well as important information regarding the purchase and product.
+
+#Project Overview
+#The product is a website named WVU Game Reviews. This website allows users to rate numerous video games across a numerous variety of video game consoles/systems. The user can create an account for the website, customize his/her profile, and can read the reviews of many video games the site has to offer. When a game is reviewed, it is rated on a 0-5 scale. The website also allows for users to give comments about the game, allowing site visitors to express their own opinions as well as the opinions of others. Furthermore, each review can be upvoted and downvoted by other users, allowing the site’s visitors to know whose comments are reasonable and realistic.
