@@ -1,1 +1,1 @@
-# This directory contains files that handle 
+# This directory contains files that handle the administrative working of the website. Overall this directory contains the administrative low-level bindings which allows the group to edit the website on the top level.  
